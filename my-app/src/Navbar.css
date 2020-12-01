@@ -1,0 +1,15 @@
+.navigation__container--left__input {
+    font-size: 1.4rem;
+    border: none;
+    color: #fff;
+    outline: none;
+    width: 0px;
+    padding: 10px;
+    padding-right: 2rem;
+    background: #111;
+    border: 1px solid #fff;
+    transition: width .5s;
+    cursor: pointer;
+    opacity: 0;
+    color-adjust: blue;
+}
